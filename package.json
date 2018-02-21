@@ -1,0 +1,20 @@
+{
+  "name": "afeem-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasanjit Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify-es": "^1.0.1"
+  }
+}

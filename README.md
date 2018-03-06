@@ -1,2 +1,1 @@
-# afeem-theme-website
-Afeem theme for VS Code
+[Afeem theme webpage] (https://pb03.github.io/afeem-theme/)

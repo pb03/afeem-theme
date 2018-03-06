@@ -1,1 +1,1 @@
-[Afeem theme webpage] (https://pb03.github.io/afeem-theme/)
+[Goto webpage](https://pb03.github.io/afeem-theme/)

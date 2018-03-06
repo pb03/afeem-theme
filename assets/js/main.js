@@ -1,6 +1,6 @@
 var container = document.querySelector('.screenshot');           
 var tabs = document.querySelectorAll('.tab');
-var activeTab = tabs[2];
+var activeTab = tabs[0];
 
 for (let i = 0; i < tabs.length; i++) {
   tabs[i].addEventListener('click', function(e, i) {

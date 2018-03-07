@@ -205,3 +205,19 @@ html {
     pointer-events: none;
   }
 }
+
+.footer {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 13px;
+  color: #adb1b4;
+
+  a {
+    color: #adb1b4;
+    text-decoration: none;
+    &:hover {
+      color: #7a8f9d;
+      text-decoration: underline;
+    }
+  }
+}
